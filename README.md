@@ -1,2 +1,0 @@
-# criptografia
- Perguntas e Respostas
